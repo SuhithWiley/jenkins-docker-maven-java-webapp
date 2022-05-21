@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('SCM') {
             steps {
-                git 'https://github.com/SuhithWiley/jenkins-docker-maven-java-webapp.git'
+                git 'https://github.com/vimallinuxworld13/jenkins-docker-maven-java-webapp.git'
             }
         }
         
@@ -67,6 +67,7 @@ pipeline {
                 echo "Action was aborted."
             }
               }
+          }
           }
           stage("Deploy webAPP in Prod ENV"){
               steps{
