@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To LinuxWorld, Sukki</h2>
+			<h2>Welcome To LinuxWorld, Sukki Suhith</h2>
 			<h3>Contact training@lwindia.com</h3>
 		</div>	
 	</div>
